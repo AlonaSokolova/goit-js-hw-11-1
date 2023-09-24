@@ -68,6 +68,7 @@ p {
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 25px;
+    
 
     @media screen and (min-width: 480px) {
         width: 480px;
